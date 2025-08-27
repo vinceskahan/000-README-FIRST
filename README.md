@@ -44,6 +44,8 @@ lost during reorganizing things...
    
 ###  purpleair - items related to Purple Air
 *  python3-query-purpleair 
+
+### upstream-repos - snapshots of things relied on elsewhere
    
 ###  weatherflow - Weather Flow tools and utilities
 *  weatherflow-calc-checker 
