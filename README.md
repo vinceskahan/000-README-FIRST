@@ -3,6 +3,7 @@
 
 I have no idea which items anybody else cares about, so I'm making almost all of the above private in Github so that I can figure it out.  If you want access to some of the items below, open an issue here so I get notified. Thanks.
 
+Any items that are drivers/extensions/etc that add to weewx are over at https://github.com/weewx-contrib if you want to take a look there....
 
 
 ## Table of Contents
