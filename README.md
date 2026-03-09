@@ -1,4 +1,10 @@
 
+# REPOS ARE MOSTLY NOW PRIVATE
+
+I have no idea which items anybody else cares about, so I'm making almost all of the above private in Github so that I can figure it out.  If you want access to some of the items below, open an issue here so I get notified. Thanks.
+
+
+
 ## Table of Contents
 
 Things are categorized to (hopefully) make it easier to find.
